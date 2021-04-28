@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jpardo-skillz.github.io/docusaurus-test/blog</id>
+<<<<<<< HEAD
     <title>Cloud Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jpardo-skillz.github.io/docusaurus-test/blog"/>
     <subtitle>Cloud Blog</subtitle>
+=======
+    <title>My Site Blog</title>
+    <updated>2019-05-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jpardo-skillz.github.io/docusaurus-test/blog"/>
+    <subtitle>My Site Blog</subtitle>
+>>>>>>> 11095555cffa84396e773b4d415d654b967ff1cf
     <icon>https://jpardo-skillz.github.io/docusaurus-test/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
